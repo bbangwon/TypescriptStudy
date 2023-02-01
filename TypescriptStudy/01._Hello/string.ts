@@ -6,3 +6,16 @@ var multilines = `
 
 console.log(multilines);
 
+console.log("줄\n바꿈");
+console.log("탭\t입니다.");
+console.log("또 만나요\r");
+console.log("'낼' \'만나요\' ");
+console.log(" \"어디\"에서요?");
+console.log("\\: 백슬래시 표현");
+console.log("C:\\Home\\BreadOne\\index.html");
+console.log(`
+
+    안녕하세요.
+    반갑습니다.
+
+`);
