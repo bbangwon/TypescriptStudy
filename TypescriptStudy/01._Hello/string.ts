@@ -30,5 +30,7 @@
     let result = "홀수";
 
     console.log(`${num}은 ${result}입니다.`);
+
+    console.log(`3 < 5 => ${3 < 5}`);
 }
 

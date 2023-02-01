@@ -23,5 +23,9 @@ var _String;
     //String Interpolation
     var message = 'hello';
     console.log(`${message}`);
+    let num = 3;
+    let result = "홀수";
+    console.log(`${num}은 ${result}입니다.`);
+    console.log(`3 < 5 => ${3 < 5}`);
 })(_String || (_String = {}));
 //# sourceMappingURL=string.js.map
