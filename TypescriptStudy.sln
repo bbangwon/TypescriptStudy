@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{54A90642-561A-4BB1-A94E-469ADEE60C69}") = "TypescriptStudy", "TypescriptStudy\TypescriptStudy.esproj", "{1425AE3D-7DA2-4167-BB27-7C4E92068F4B}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{1425AE3D-7DA2-4167-BB27-7C4E92068F4B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{1425AE3D-7DA2-4167-BB27-7C4E92068F4B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{1425AE3D-7DA2-4167-BB27-7C4E92068F4B}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{1425AE3D-7DA2-4167-BB27-7C4E92068F4B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{1425AE3D-7DA2-4167-BB27-7C4E92068F4B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{1425AE3D-7DA2-4167-BB27-7C4E92068F4B}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B251DA24-5D12-46A6-8CD8-5D9B6D54E25A}
+	EndGlobalSection
+EndGlobal
