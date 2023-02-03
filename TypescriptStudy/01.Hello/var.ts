@@ -41,7 +41,10 @@
         console.log("안녕하세요. " + name + "(" + age + ") 입니다.");
     }
 
+    //상수
+    const name = "BreadOne";
 
-
-
+    //변수
+    let age = 21;
+    console.log(`Name: ${name}, Age: ${age}`); 
 }

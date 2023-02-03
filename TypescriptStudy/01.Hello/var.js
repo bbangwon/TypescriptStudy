@@ -34,5 +34,10 @@ var _Var;
         let age = 21;
         console.log("안녕하세요. " + name + "(" + age + ") 입니다.");
     })(StringKeyword || (StringKeyword = {}));
+    //상수
+    const name = "BreadOne";
+    //변수
+    let age = 21;
+    console.log(`Name: ${name}, Age: ${age}`);
 })(_Var || (_Var = {}));
 //# sourceMappingURL=var.js.map
