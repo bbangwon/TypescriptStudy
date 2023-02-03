@@ -1,9 +1,9 @@
-namespace TypeConversion {
+ï»¿namespace TypeConversion {
     let s: string = "12.34";
 
     let n1: number = parseInt(s);  
     console.log(`n1 => ${n1}: ${typeof n1}`);
 
-    let n2: number = +s;    //+±âÈ£¸¦ ¾Õ¿¡ ¾²¸é numberÇü½ÄÀ¸·Î º¯°æµÈ´Ù.
+    let n2: number = +s;    //+ê¸°í˜¸ë¥¼ ì•žì— ì“°ë©´ numberí˜•ì‹ìœ¼ë¡œ ë³€ê²½ëœë‹¤.
     console.log(`n2 => ${n2}: ${typeof n2}`);
 }
