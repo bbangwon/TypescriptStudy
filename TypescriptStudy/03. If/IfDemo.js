@@ -34,5 +34,25 @@ var ForDemo;
         result += "Hello " + i + "\n";
     }
     console.log(result);
+    var colors = ["red", "green", "blue"];
+    for (var index in colors) {
+        console.log(colors[index]);
+    }
+    for (var color of colors) {
+        console.log(color);
+    }
 })(ForDemo || (ForDemo = {}));
+var ArrDemo;
+(function (ArrDemo) {
+    var arr = [1, 2, 3];
+    var [a, b, c] = arr;
+    var [d, e, f] = ["string", 1234, true];
+    console.log(arr);
+    console.log(a);
+    console.log(b);
+    console.log(c);
+    console.log(d);
+    console.log(e);
+    console.log(f);
+})(ArrDemo || (ArrDemo = {}));
 //# sourceMappingURL=IfDemo.js.map
